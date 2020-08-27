@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.1e54f852.chunk.js",
+    "main.js.map": "/static/js/main.1e54f852.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d9f235a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d9f235a9.js.map",
+    "static/js/2.5c4659af.chunk.js": "/static/js/2.5c4659af.chunk.js",
+    "static/js/2.5c4659af.chunk.js.map": "/static/js/2.5c4659af.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9dc824927e875835a8ceaa42fc0fa02f.js": "/precache-manifest.9dc824927e875835a8ceaa42fc0fa02f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.5c4659af.chunk.js.LICENSE.txt": "/static/js/2.5c4659af.chunk.js.LICENSE.txt",
+    "static/media/google-logo.06c50bce.svg": "/static/media/google-logo.06c50bce.svg",
+    "static/media/twilio-logo.62d2e629.svg": "/static/media/twilio-logo.62d2e629.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f235a9.js",
+    "static/js/2.5c4659af.chunk.js",
+    "static/js/main.1e54f852.chunk.js"
+  ]
+}
